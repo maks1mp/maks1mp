@@ -4,7 +4,20 @@ Hi 👋 My name is Maksym Pohribniak
 I'm a Senior Front End React Developer
 --------------------------------------
 
-Experience & Expertise: 🔹 Frontend Proficiency: I master React, Next.js, Angular, alongside HTML5, CSS3, SCSS, Tailwind, JavaScript, and TypeScript. 🔹 Mobile Adaptability: With 6+ years dedicated to crafting top-tier mobile solutions using React Native. 🔹 Desktop Solutions: Proficiency in Electron, transforming web solutions into native desktop applications. 🔹 Robust Backend Architect: 4+ years in full-stack development, leveraging Node.js, Express, NestJS, Next.js, and GraphQL. 🔹 API Integration: I'm fluent in creating and integrating with APIs, be it GraphQL, Apollo, or REST. Specializations: ▪️ Web applications ▪️ Hybrid & Mobile applications (React Native focus) ▪️ Desktop applications (Electron)
+Experience & Expertise: 
+<br>
+<br>
+🔹 Frontend Proficiency: I master React, Next.js, Angular, alongside HTML5, CSS3, SCSS, Tailwind, JavaScript, and TypeScript. <br>
+🔹 Mobile Adaptability: With 6+ years dedicated to crafting top-tier mobile solutions using React Native. <br>
+🔹 Desktop Solutions: Proficiency in Electron, transforming web solutions into native desktop applications. <br>
+🔹 Robust Backend Architect: 4+ years in full-stack development, leveraging Node.js, Express, NestJS, Next.js, and GraphQL. <br>
+🔹 API Integration: I'm fluent in creating and integrating with APIs, be it GraphQL, Apollo, or REST.
+<br><br>
+Specializations:
+<br><br>
+▪️ Web applications <br>
+▪️ Hybrid & Mobile applications (React Native focus) <br>
+▪️ Desktop applications (Electron) <br>
 
 ## Languages and Tools  
 <div align="center">  
