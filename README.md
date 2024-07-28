@@ -1,7 +1,7 @@
 Hi 👋 My name is Maksym Pohribniak
 ==================================
 
-I'm a Senior Front End React Developer
+Senior Front End React Developer, 10+ years of experience
 --------------------------------------
 
 Experience & Expertise: 
